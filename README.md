@@ -44,3 +44,7 @@ The dashboard provides meaningful insights into patient data, billing amounts, h
 Nishana P Alikutty
 
 Aspiring Data Analyst
+
+## 📸 Dashboard Preview
+
+![Healthcare Dashboard](Healthcare-Dashboard.png)
